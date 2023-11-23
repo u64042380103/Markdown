@@ -1,1 +1,2 @@
 # Kamon wongchompoo
+## Computer Science
